@@ -14,10 +14,10 @@ import passlib
 from passlib.hash import mssql2005 as m25
 from passlib.hash import mssql2000 as m20
 print(Fore.RED + "----------------------------------")
-print(Fore.LIGHTBLUE_EX + "         H4WK OFCX   - XAİNE           ")
+print(Fore.LIGHTBLUE_EX + "         Hissediyorum Delice         ")
 print(Fore.RED + "----------------------------------")
 print(Fore.LIGHTBLUE_EX + "      Python Cryptografi Tool ")
-print(Fore.LIGHTMAGENTA_EX + "      Author : H4WK OFCX & XAİNE \n      İnstagram => hawk.def - xaine_v1 \n      İnstagram => xd3lt4 - xaine_v2 \n      YouTube => HAWK DEFACER \n      Blog = https://farukdeveloper.online/")
+print(Fore.LIGHTMAGENTA_EX + "      Çocukken saftık hayat o zaman güzeldi.")
 print(Fore.RED + "----------------------------------")
 print(Fore.RED + "      1- HTML ENCODE / DECODE \n      2- BASE64 ENCODE/DECODE \n      3- MD5 GENERATOR GENERATOR / ENCODE / DECODE \n      4- SHA GENERATOR \n")
 print(Fore.RED + "----------------------------------")
